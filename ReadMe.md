@@ -1,6 +1,6 @@
 # Introduction
 
-This is a Core Board of  Xilinx FPGA Board 
+This is a hardware Core Board of  Xilinx FPGA ZYNQ7020/10
 
 This is the basic diagram of the board.
 
